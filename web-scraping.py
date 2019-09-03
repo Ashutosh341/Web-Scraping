@@ -45,3 +45,4 @@ except ValueError as e:
 
 else:
     print("\nWeb data successfully written to Excel.")
+print('Successful;')
